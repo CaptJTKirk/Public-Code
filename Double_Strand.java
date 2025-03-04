@@ -1,5 +1,5 @@
 /*
- * Double_Strand.java
+ * File Name: Double_Strand.java
  * Author Charles LaCasse 
  */
 
