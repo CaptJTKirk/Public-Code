@@ -1,7 +1,5 @@
 /*
- * BIFS 618
- * Homework 2 (Questions 1 and 2)
- * DNA.java
+ * File Name: DNARegex.java
  * Author Charles LaCasse 
  */
 
