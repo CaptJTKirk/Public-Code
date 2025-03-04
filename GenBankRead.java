@@ -1,5 +1,4 @@
 /*
- * Homework 5, Question 1 
  * File Name: GenBankRead.java
  * Author: Charles LaCasse 
  */
